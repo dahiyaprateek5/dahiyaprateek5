@@ -54,5 +54,5 @@ Multi-tenant platform with ML-driven credit scoring, FastAPI endpoints, PostgreS
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/dahiyaprateek5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/dahiyaprateek5](https://www.linkedin.com/in/dahiyaprateek5/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dahiyaprateek5@gmail.com)
