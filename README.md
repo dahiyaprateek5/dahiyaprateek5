@@ -42,9 +42,12 @@ Multi-tenant platform with ML-driven credit scoring, FastAPI endpoints, PostgreS
 
 ## Certifications
 
-·IBM Data Science & Tools 
+·IBM Data Science & Tools
+
 · Google Analytics 
+
 · Microsoft Data Fortify 
+
 · HCL Tech Bee (Architecture, OS, Networking, SQL)
 
 ---
