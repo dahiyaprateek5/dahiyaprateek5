@@ -18,8 +18,8 @@ MSc Advanced Computer Science (Merit) - University of Liverpool | Currently ship
 
 ## What I'm Building
 
-**RiskLens** - AI-powered financial risk assessment SaaS targeting the UK market.  
-Multi-tenant platform scoring credit risk for UK SMEs using ensemble ML models (Random Forest, XGBoost). Built with FastAPI, PostgreSQL-backed ETL pipelines, Docker + AWS deployment, and automated CI/CD via GitHub Actions. 80%+ test coverage with pytest. *(Proprietary — code not public)*
+**RiskLens** - AI/ML-powered financial risk assessment SaaS targeting the UK market.  
+Multi-tenant platform scoring credit risk for UK SMEs using ensemble ML models (Random Forest, XGBoost). Built with FastAPI, PostgreSQL-backed ETL pipelines, Docker + AWS deployment, and automated CI/CD via GitHub Actions. 80%+ test coverage with pytest. *(Proprietary - code not public)*
 
 ---
 
