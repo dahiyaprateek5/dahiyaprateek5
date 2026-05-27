@@ -1,55 +1,136 @@
-# Hey, I'm Prateek Dahiya 
-**Python Engineer** building scalable data pipelines, REST APIs, and ML-driven financial platforms.
+<div align="center">
 
-MSc Advanced Computer Science (Merit) - University of Liverpool | Currently shipping production code at **ScotiTech Solutions, Glasgow**.
+<img src="https://img.shields.io/badge/MSc-Advanced%20Computer%20Science-378ADD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Liverpool%2C%20UK-1D9E75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-534AB7?style=for-the-badge" />
+
+<br/><br/>
+
+# Prateek Dahiya
+
+### Software Engineer — Production SaaS · ML Platforms · REST APIs
+
+*Currently shipping production code at **ScotiTech Solutions, Glasgow***
+
+</div>
 
 ---
 
-## What I Work With
+## About
 
-**Languages:** Python 3 · SQL · Java · JavaScript · C++ · HTML/CSS  
-**ML & Data:** Scikit-learn · XGBoost · Pandas · NumPy · Matplotlib · ETL Pipelines · Data Modelling  
-**Backend:** FastAPI · Flask · PostgreSQL · MySQL · REST API Design  
-**DevOps:** Docker · Kubernetes (familiar) · AWS (EC2, S3, Lambda) · GCP (familiar) · GitHub Actions · Git · Linux  
-**Testing:** pytest · TDD  
-**Tools:** VS Code · Jupyter · Power BI · Excel
+I build things that work in production and solve real problems.
+
+Currently a Software Engineer at ScotiTech Solutions while independently building two SaaS products — one investor-backed fintech platform and one revenue-generating lab management system live across 28 labs in India. My work spans ML model deployment, full-stack web applications, REST API design, and cloud infrastructure.
+
+I care about clean architecture, test coverage, and shipping fast without breaking things.
 
 ---
 
 ## What I'm Building
 
-**RiskLens** - AI/ML-powered financial risk assessment SaaS targeting the UK market.  
-Multi-tenant platform scoring credit risk for UK SMEs using ensemble ML models (Random Forest, XGBoost). Built with FastAPI, PostgreSQL-backed ETL pipelines, Docker + AWS deployment, and automated CI/CD via GitHub Actions. 80%+ test coverage with pytest. Launching 2027 *(Proprietary - code not public)*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 RiskLens
+**AI-Powered Financial Risk SaaS** &nbsp; ![](https://img.shields.io/badge/In%20Dev-378ADD?style=flat-square)
+
+Multi-tenant platform scoring credit risk for UK SMEs using ML ensemble (RandomForest + XGBoost + LightGBM). Real-time scoring API, automated ETL pipelines, white-label fintech integration.
+
+`Python` `FastAPI` `XGBoost` `LightGBM` `PostgreSQL` `Docker` `AWS` `pytest`
+
+> **£2,000/mo committed investment** · Formal terms in place
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [LabsPro](https://github.com/dahiyaprateek5/labspro)
+**Diagnostic Lab Management SaaS** &nbsp; ![](https://img.shields.io/badge/Live-1D9E75?style=flat-square)
+
+Full-stack multi-tenant SaaS for Indian pathology labs — registration, GST invoicing, QR-verifiable reports, critical-value alerts, end-of-day reconciliation. Postgres RLS tenant isolation.
+
+`React 18` `Supabase` `Tailwind CSS` `Docker` `Vercel` `Railway` `GitHub Actions`
+
+> **28 labs live in India** · Active monthly revenue
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-**[Team Finance](https://github.com/dahiyaprateek5/Team-Finance)** - End-to-end ML platform predicting financial risk for 1,000+ SMEs across 12 industries. Random Forest & XGBoost models with 90%+ accuracy. PostgreSQL data pipeline with indexing optimisation (40% faster queries) + real-time BI dashboards.
+```
+Languages     Python · JavaScript · SQL · Java · C++ · HTML/CSS
+ML & Data     XGBoost · LightGBM · Scikit-learn · Pandas · NumPy · ETL Pipelines
+Backend       FastAPI · Flask · Express · PostgreSQL · MySQL · Supabase
+Frontend      React 18 · Next.js 14 · Tailwind CSS · Vite
+DevOps        Docker · AWS (EC2, S3, Lambda) · GitHub Actions · Vercel · Railway · Linux
+Testing       pytest · TDD · Unit Testing · Integration Testing
+```
 
 ---
 
-## Professional Highlights
+## Stats
 
-- Integrating RESTful APIs and third-party services into a microservices architecture, handling 1,000+ daily transactions
-- Delivering 3+ client-facing features per sprint in cross-functional Agile squads
-- Built ML models (Random Forest, XGBoost, KNN, Time Series) achieving 90%+ prediction accuracy
-- Designed PostgreSQL data pipelines that cut query time by 40% through indexing and schema optimisation
-- Containerised applications with Docker, deployed on AWS, automated CI/CD with GitHub Actions
-- Writing comprehensive test suites with pytest, following TDD practices
+<div align="center">
+
+| 28 | £2,000/mo | 90%+ | 1,000+ | 40% |
+|:---:|:---:|:---:|:---:|:---:|
+| Labs live in India | Committed funding | ML accuracy | SMEs in training data | Query time reduction |
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahiyaprateek5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahiyaprateek5&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Experience
+
+**Software Engineer Intern** · ScotiTech Solutions · Glasgow *(Oct 2025 – Present)*
+- Lead end-to-end feature development across the full stack in an Agile team of 6
+- Ship 3+ client-facing features per sprint; maintain CI/CD via GitHub Actions
+- Integrate RESTful APIs into a microservices architecture handling 1,000+ daily transactions
+- Collaborate directly with clients to translate requirements into technical delivery
+
+**Associate Teacher** · Wirral Metropolitan College *(Jan – Oct 2025)*
+
+---
+
+## Education
+
+🎓 **MSc Advanced Computer Science** (Merit) — University of Liverpool, 2024–2025
+
+🎓 **BCA** (Distinction) — Baba Masthnath University, 2021–2024
 
 ---
 
 ## Certifications
 
-· IBM Data Science & Tools  
-· Google Analytics  
-· Microsoft Data Fortify  
-· HCL Tech Bee (Architecture, OS, Networking, SQL)
+![IBM](https://img.shields.io/badge/IBM-Data%20Science%20%26%20Tools-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Data%20Fortify-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-Tech%20Bee-E3002C?style=flat-square)
 
 ---
 
-## Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahiyaprateek5/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dahiyaprateek5@gmail.com)
+*Open to graduate SWE · Python · Data Engineering roles in the UK*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahiyaprateek5/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dahiyaprateek5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dahiyaprateek5)
+
+</div>
