@@ -82,20 +82,6 @@ Testing       pytest · TDD · Unit Testing · Integration Testing
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahiyaprateek5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahiyaprateek5&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Experience
 
 **Software Engineer Intern** · ScotiTech Solutions · Glasgow *(Oct 2025 – Present)*
