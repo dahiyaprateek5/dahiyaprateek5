@@ -61,7 +61,7 @@ Practices     Agile/Scrum · Microservices · Multi-tenant SaaS · SOLID · Desi
 
 ---
 
-#### Project 1: Enterprise Application Platform - Internal Tooling & Client Delivery
+#### Enterprise Application Platform - Internal Tooling & Client Delivery
 
 `C#` `ASP.NET Core` `Web API` `SQL Server` `Entity Framework Core` `React.js` `TypeScript` `Docker` `GitHub Actions` `IIS`
 
@@ -71,7 +71,7 @@ Practices     Agile/Scrum · Microservices · Multi-tenant SaaS · SOLID · Desi
 
 ---
 
-#### Project 2: Risklen - AI-Powered Virtual CFO SaaS for UK SMEs
+#### Risklen - AI-Powered Virtual CFO SaaS for UK SMEs
 
 `C#` `ASP.NET Core` `Web API` `React.js` `Next.js 14` `TypeScript` `Python` `FastAPI` `XGBoost` `SQL Server` `PostgreSQL` `Entity Framework Core` `Docker` `AWS` `GitHub Actions`
 
@@ -81,7 +81,7 @@ Practices     Agile/Scrum · Microservices · Multi-tenant SaaS · SOLID · Desi
 
 ---
 
-#### Project 3: LabsProo - Multi-Tenant Diagnostic Lab Management Platform
+#### LabsProo - Multi-Tenant Diagnostic Lab Management Platform
 
 `React 18` `TypeScript` `Supabase` `PostgreSQL` `RLS` `Tailwind CSS` `Docker` `Vercel` `Railway` `GitHub Actions`
 
