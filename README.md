@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/MSc-Advanced%20Computer%20Science-378ADD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Liverpool%2C%20UK-1D9E75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-London%2C%20UK-1D9E75?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-534AB7?style=for-the-badge" />
 
 <br/><br/>
@@ -20,7 +20,7 @@
 
 I build things that work in production and solve real problems.
 
-Currently a Software Engineer at ScotiTech Solutions, working on enterprise applications while independently building two SaaS products — Risklen (AI Virtual CFO for UK SMEs) and LabsPro (a live multi-tenant lab management platform serving 28+ paying labs in India). My work spans Python, FastAPI, React, Next.js, PostgreSQL, ML model training, REST API design, and cloud deployment.
+Currently a Software Engineer at ScotiTech Solutions, working on enterprise applications while independently building two SaaS products - Risklen (AI Virtual CFO for UK SMEs) and LabsPro (a live multi-tenant lab management platform serving 28+ paying labs in India). My work spans Python, FastAPI, React, Next.js, PostgreSQL, ML model training, REST API design, and cloud deployment.
 
 I care about clean architecture, shipping fast, and building products real users depend on.
 
@@ -36,7 +36,7 @@ Databases     PostgreSQL · MySQL · Supabase (RLS + Auth)
 ML & Data     Scikit-learn · XGBoost · LightGBM · Pandas · NumPy
 AI & Tools    Claude · GitHub Copilot · Cursor · Google Gemini API
 Automation    n8n · Zapier · Make · REST APIs · Webhooks
-DevOps        Docker · Vercel · Railway · Git · GitHub Actions · CI/CD · Linux
+DevOps        Docker · Vercel · Railway · Git · GitHub Actions · CI/CD 
 ```
 
 ---
@@ -59,7 +59,7 @@ DevOps        Docker · Vercel · Railway · Git · GitHub Actions · CI/CD · L
 
 ---
 
-#### Risklen — AI Virtual CFO SaaS for UK SMEs
+#### Risklen - AI Virtual CFO SaaS for UK SMEs
 
 `Next.js 14` `TypeScript` `FastAPI` `PostgreSQL` `Supabase` `Scikit-learn` `XGBoost` `LightGBM` `Celery` `n8n` `Google Gemini API`
 
@@ -69,7 +69,7 @@ DevOps        Docker · Vercel · Railway · Git · GitHub Actions · CI/CD · L
 
 ---
 
-#### LabsProo — Multi-Tenant Diagnostic Lab Management Platform
+#### LabsProo - Multi-Tenant Diagnostic Lab Management Platform
 
 `React 18` `TypeScript` `Supabase` `PostgreSQL` `RLS` `Tailwind CSS` `Vercel` `Railway` `GitHub Actions`
 
@@ -110,9 +110,9 @@ DevOps        Docker · Vercel · Railway · Git · GitHub Actions · CI/CD · L
 
 ## Education
 
-🎓 **MSc Advanced Computer Science** (Merit) — University of Liverpool, 2024–2025
+🎓 **MSc Advanced Computer Science** (Merit) - University of Liverpool, 2024-2025
 
-🎓 **BCA — Bachelor of Computer Applications** (Distinction) — Baba Masthnath University, 2021–2024
+🎓 **BCA - Bachelor of Computer Applications** (Distinction) - Baba Masthnath University, 2021-2024
 
 ---
 
