@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/MSc-Advanced%20Computer%20Science-378ADD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-London%2C%20UK-1D9E75?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-534AB7?style=for-the-badge" />
-
-<br/><br/>
-
 # Prateek Dahiya
 
-### Software Engineer · Python · React · FastAPI · Production SaaS · REST APIs
+### Software Engineer · AI & LLM · Full-Stack · Production SaaS
 
-*Currently shipping production code at **ScotiTech Solutions, Glasgow***
+**MSc Advanced Computer Science (Merit) — University of Liverpool**
+
+London, UK · Open to Work
+
+<br/>
+
+<a href="https://github.com/dahiyaprateek5">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dahiyaprateek5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dahiyaprateek5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -18,118 +26,224 @@
 
 ## About
 
-I build things that work in production and solve real problems.
+I'm a Software Engineer focused on building **AI-powered, production-ready software** that solves real-world problems.
 
-Currently a Software Engineer at ScotiTech Solutions, working on enterprise applications while independently building two SaaS products - Risklen (AI Virtual CFO for UK SMEs) and LabsPro (a live multi-tenant lab management platform serving 28+ paying labs in India). My work spans Python, FastAPI, React, Next.js, PostgreSQL, ML model training, REST API design, and cloud deployment.
+Currently working at **ScotiTech Solutions**, contributing to full-stack and enterprise applications across backend APIs, databases, frontend systems, testing and production delivery.
 
-I care about clean architecture, shipping fast, and building products real users depend on.
+My experience spans **AI and LLM engineering, Python, FastAPI, React, Next.js, PostgreSQL, REST APIs, machine learning, data pipelines, workflow automation and cloud technologies**.
 
----
+I also built **LabsProo**, a production multi-tenant SaaS platform for diagnostic laboratories in India. The platform is now used by **37 paying laboratories** and processes thousands of patient records daily.
 
-## Tech Stack
-
-```
-Languages     Python (primary) · SQL · JavaScript · TypeScript · Java (familiar)
-Backend       FastAPI · Flask · SQLAlchemy · Pydantic · Celery
-Frontend      React · Next.js 14 · TypeScript · Tailwind CSS · Zustand · TanStack Query
-Databases     PostgreSQL · MySQL · Supabase (RLS + Auth)
-ML & Data     Scikit-learn · XGBoost · LightGBM · Pandas · NumPy
-AI & Tools    Claude · GitHub Copilot · Cursor · Google Gemini API
-Automation    n8n · Zapier · Make · REST APIs · Webhooks
-DevOps        Docker · Vercel · Railway · Git · GitHub Actions · CI/CD 
-```
+I enjoy taking ambiguous problems, understanding the underlying workflow and turning them into **practical, maintainable software that real users depend on**.
 
 ---
 
-## Stats
+## Core Focus
 
-<div align="center">
+**AI & LLM**
 
-| 28+ | 45 | 19 | 15 | 99.5%+ |
-|:---:|:---:|:---:|:---:|:---:|
-| Labs live in India | Pages built | API modules | Database tables | Platform uptime |
+LLM integration, prompt engineering, generative AI, AI assistants, machine learning and AI evaluation.
 
-</div>
+**Software Engineering**
+
+Full-stack development, REST APIs, backend systems, system architecture, databases and third-party integrations.
+
+**Data & Automation**
+
+Data pipelines, data plumbing, workflow automation, asynchronous processing and business process automation.
+
+**Production Engineering**
+
+Cloud deployment, monitoring, debugging, testing, security, compliance and post-launch maintenance.
+
+---
+
+## Technology
+
+### Languages
+
+`Python` · `SQL` · `JavaScript` · `TypeScript` · `C#` · `Java`
+
+### Backend
+
+`FastAPI` · `Flask` · `ASP.NET Core` · `SQLAlchemy` · `Pydantic` · `Celery`
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+### AI & LLM
+
+`Google Gemini` · `LLM Integration` · `Prompt Engineering`  
+`Generative AI` · `AI Evaluation` · `NLP`  
+`Claude Code` · `Cursor` · `Codex` · `GitHub Copilot`
+
+### Machine Learning & Data
+
+`Scikit-learn` · `XGBoost` · `LightGBM`  
+`Pandas` · `NumPy` · `Data Pipelines` · `Data Plumbing`
+
+### Databases
+
+`PostgreSQL` · `Supabase` · `MySQL` · `SQL Server`  
+`Row-Level Security` · `Authentication`
+
+### APIs & Automation
+
+`REST APIs` · `Webhooks` · `Third-Party API Integration`  
+`n8n` · `Zapier` · `Make` · `Workflow Automation`
+
+### Cloud & DevOps
+
+`Azure` · `Google Cloud Platform` · `Vercel` · `Railway`  
+`Docker` · `Git` · `GitHub Actions` · `CI/CD`
+
+### Engineering & Security
+
+`System Architecture` · `API Design` · `Debugging`  
+`Testing` · `Monitoring` · `Production Deployment`  
+`Secure-by-Design` · `Data Protection` · `Compliance`
 
 ---
 
 ## Experience
 
-### Software Engineer Intern · ScotiTech Solutions · Glasgow *(Oct 2025 – Present)*
+### Software Engineer Intern
+
+**ScotiTech Solutions · Glasgow, UK**
+
+**Oct 2025 – Present**
+
+#### Risklen — AI Virtual CFO for UK SMEs
+
+`Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Supabase`  
+`XGBoost` · `LightGBM` · `Celery` · `Redis` · `n8n` · `Google Gemini`
+
+- Built and shipped **production AI-powered software** across full-stack applications, APIs, databases and automated workflows.
+- Integrated **Google Gemini Flash with prompt engineering** to build an LLM-powered financial assistant delivering personalised insights from user data.
+- Built **data pipelines, workflow automation and API integrations** using Celery, Redis, n8n and **6+ third-party financial APIs**.
+- Developed and evaluated **XGBoost, LightGBM, Random Forest and Logistic Regression** models for bankruptcy-risk prediction using F1 and ROC-AUC.
+- Made **pragmatic architectural decisions** across APIs, databases, asynchronous processing and integrations, balancing delivery speed, maintainability and reliability.
+- Worked across **client environments**, supporting feature development, testing, debugging and production delivery.
+- Used **Claude Code, Cursor, Codex and GitHub Copilot** for AI-assisted development, accelerating implementation, debugging, testing and rapid iteration.
 
 ---
 
-#### Risklen - AI Virtual CFO SaaS for UK SMEs
+## Featured Project
 
-`Next.js 14` `TypeScript` `FastAPI` `PostgreSQL` `Supabase` `Scikit-learn` `XGBoost` `LightGBM` `Celery` `n8n` `Google Gemini API`
+### LabsProo
 
-- Built a full-stack platform (45 pages, 19 API modules, 15 database tables with RLS) integrating 6+ external financial APIs (Companies House, Alpha Vantage, yfinance) to deliver automated financial analysis for UK SMEs
-- Trained and evaluated multiple ML models (Logistic Regression, Random Forest, XGBoost, LightGBM) for bankruptcy risk prediction — selected best via F1/ROC-AUC, outputting a 0-100 composite risk score across liquidity, profitability, stability, and debt
-- Built an AI chatbot (Google Gemini Flash) with personalised financial insights from user data, and automated scheduled email reports using Celery workers and n8n workflows
+**Multi-Tenant Diagnostic Laboratory Management Platform**
+
+**37 Paying Laboratories · India**
+
+`React` · `Next.js` · `TypeScript` · `FastAPI`  
+`PostgreSQL` · `Supabase` · `Row-Level Security`  
+`Vercel` · `Railway` · `GitHub Actions`
+
+LabsProo is a production SaaS platform built for diagnostic laboratories, covering the workflow from patient registration through testing, reporting and invoicing.
+
+### Product
+
+- Built and deployed the platform **from concept to production**, now serving **37 paying diagnostic laboratories**.
+- Processes **thousands of patient records daily** across client laboratories.
+- Maintains **99.5%+ platform uptime**.
+- Reduced manual paperwork by approximately **80%** across client operations.
+
+### Engineering
+
+- Designed and implemented a **multi-tenant architecture** using PostgreSQL Row-Level Security to enforce strict tenant data isolation.
+- Built production workflows covering patient registration, test processing, reporting, invoicing and laboratory operations.
+- Implemented automated calculations including **LDL and eGFR**, critical-value alerts and automated report generation.
+- Built **QR-verifiable reports** and letterhead-aware PDF generation for laboratory reporting.
+- Developed platform administration functionality for managing laboratories, users, catalogue data and system configuration.
+- Integrated APIs and automated workflows to reduce repetitive manual operations.
+
+### Production & Security
+
+- Worked directly with **real client requirements and feedback** to continuously improve the platform.
+- Debugged production issues and delivered iterative improvements based on operational needs.
+- Managed deployment, monitoring and **post-launch maintenance** across the application.
+- Applied **secure-by-design and compliance-aware practices** when handling sensitive laboratory and patient data.
+- Used **Claude Code and AI-assisted development workflows** throughout architecture, implementation, debugging, testing and feature iteration.
 
 ---
 
-#### LabsProo - Multi-Tenant Diagnostic Lab Management Platform
-
-`React 18` `TypeScript` `Supabase` `PostgreSQL` `RLS` `Tailwind CSS` `Vercel` `Railway` `GitHub Actions`
-
-- Built a full-stack multi-tenant SaaS (React 18 + Supabase) serving 28+ diagnostic labs in India with Row-Level Security for complete data isolation per client
-- Implemented domain-specific features: formula auto-calculation (LDL, eGFR), critical-value alerts, QR-verifiable reports, letterhead-aware PDF generation, and SuperAdmin console with invite-code gating
-- Scaled to 28+ paying labs processing thousands of patient records daily — maintaining 99.5%+ uptime and reducing manual paperwork by 80% across client operations
-
----
-
-#### Enterprise Application Platform — Internal Tooling & Client Delivery
-
-`C#` `ASP.NET Core` `SQL Server` `React.js` `TypeScript` `Docker` `GitHub Actions`
-
-- Supported feature delivery through documentation, presentations, and stakeholder communication across 3 client environments
-- Assisted in QA and feature testing cycles, identifying bugs and validating functionality before production releases
-- Gained working exposure to full-stack enterprise systems — ASP.NET Core APIs, SQL Server, React.js frontends, and Docker-based CI/CD pipelines
-
----
-
-### Associate Teacher · Wirral Metropolitan College · Wirral *(Jan – Oct 2025)*
-
-- Supported 100+ students across multiple courses, adapting teaching methods to individual learning needs and improving engagement
-- Maintained accurate student records and administrative data using internal systems; ensured zero-disruption exam-day operations
-
----
-
-## Projects
+## Other Project
 
 ### EMG-Controlled Robotic Hand
 
-`Python` `Raspberry Pi 5` `MCP3008 ADC` `PCA9685 Servo Driver` `Dual EMG Sensors` `SPI/I2C`
+`Python` · `Raspberry Pi 5` · `MCP3008 ADC` · `PCA9685` · `SPI/I2C`
 
-- Built Python-based EMG signal processing with calibration and hysteresis to control a 5-finger robotic hand via I2C/SPI
-- Implemented gesture recognition logic mapping EMG signals to individual finger movements with non-blocking servo control
-- Produced an academic poster documenting the design, implementation, and results
+- Built Python-based EMG signal processing with calibration and hysteresis to control a five-finger robotic hand.
+- Implemented gesture recognition logic mapping EMG signals to individual finger movements.
+- Designed non-blocking servo control using I2C/SPI communication.
+- Produced an academic poster documenting the design, implementation and results.
 
 ---
 
 ## Education
 
-🎓 **MSc Advanced Computer Science** (Merit) - University of Liverpool, 2024-2025
+### MSc Advanced Computer Science — Merit
 
-🎓 **BCA - Bachelor of Computer Applications** (Distinction) - Baba Masthnath University, 2021-2024
+**University of Liverpool**
+
+Liverpool, UK · 2024–2025
+
+### BCA — Bachelor of Computer Applications — Distinction
+
+**Baba Mastnath University**
+
+Haryana, India · 2021–2024
 
 ---
 
 ## Certifications
 
-![IBM](https://img.shields.io/badge/IBM-Data%20Science%20%26%20Tools-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-Data%20Fortify-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+**IBM Data Science and Tools**
+
+Data science fundamentals, Jupyter, GitHub and RStudio.
+
+**Google Analytics**
+
+Website performance tracking and user behaviour analysis.
+
+**Microsoft Data Fortify**
+
+Data protection, compliance and governance.
+
+---
+
+## Currently Interested In
+
+`Software Engineering` · `AI Engineering` · `LLM Applications`
+
+`Python` · `Full-Stack Development` · `Backend Engineering`
+
+`Data Engineering` · `Production SaaS` · `Cloud Engineering`
+
+I'm particularly interested in teams where I can take ownership of a problem, understand the real-world requirements, build the solution, ship it to production and continuously improve it based on user feedback.
 
 ---
 
 <div align="center">
 
-*Open to Software Engineer · Python · React · Full-Stack · Data Engineering roles in the UK*
+### Let's Build Something Useful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahiyaprateek5/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dahiyaprateek5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dahiyaprateek5)
+**Software Engineer · AI/LLM · Python · Full-Stack**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/dahiyaprateek5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:dahiyaprateek5@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/dahiyaprateek5">
+<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
