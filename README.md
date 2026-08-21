@@ -2,7 +2,7 @@
 
 # Prateek Dahiya
 
-### Software Engineer · AI & LLM · Full-Stack · Production SaaS
+### Software Engineer · Full-Stack · Python
 
 **MSc Advanced Computer Science (Merit) — University of Liverpool**
 
@@ -26,203 +26,130 @@ London, UK · Open to Work
 
 ## About
 
-I'm a Software Engineer focused on building **AI-powered, production-ready software** that solves real-world problems.
+I'm a Software Engineer working on full-stack applications, backend systems, and data pipelines.
 
-Currently working at **ScotiTech Solutions**, contributing to full-stack and enterprise applications across backend APIs, databases, frontend systems, testing and production delivery.
+Currently at **ScotiTech Solutions**, working on backend APIs, databases, frontend features, testing, and production delivery.
 
-My experience spans **AI and LLM engineering, Python, FastAPI, React, Next.js, PostgreSQL, REST APIs, machine learning, data pipelines, workflow automation and cloud technologies**.
+I built **Risklen**, a financial risk analysis tool for UK small businesses, and **LabsProo**, a multi-tenant platform for diagnostic labs in India, now used by 28+ paying labs.
 
-I also built **LabsProo**, a production multi-tenant SaaS platform for diagnostic laboratories in India. The platform is now used by **37 paying laboratories** and processes thousands of patient records daily.
-
-I enjoy taking ambiguous problems, understanding the underlying workflow and turning them into **practical, maintainable software that real users depend on**.
-
----
-
-## Core Focus
-
-**AI & LLM**
-
-LLM integration, prompt engineering, generative AI, AI assistants, machine learning and AI evaluation.
-
-**Software Engineering**
-
-Full-stack development, REST APIs, backend systems, system architecture, databases and third-party integrations.
-
-**Data & Automation**
-
-Data pipelines, data plumbing, workflow automation, asynchronous processing and business process automation.
-
-**Production Engineering**
-
-Cloud deployment, monitoring, debugging, testing, security, compliance and post-launch maintenance.
+I like taking a problem, understanding what's actually needed, building it, and improving it based on real feedback.
 
 ---
 
 ## Technology
 
-### Languages
+**Languages**
+`Python` `SQL` `JavaScript` `Java (basic)`
 
-`Python` · `SQL` · `JavaScript` · `TypeScript` · `C#` · `Java`
+**Backend**
+`FastAPI` `Flask` `Celery`
 
-### Backend
+**Frontend**
+`React` `Next.js` `Tailwind CSS`
 
-`FastAPI` · `Flask` · `ASP.NET Core` · `SQLAlchemy` · `Pydantic` · `Celery`
+**Machine Learning**
+`Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy`
 
-### Frontend
+**Databases**
+`PostgreSQL` `MySQL` `Supabase` `Row-Level Security`
 
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+**Automation & APIs**
+`REST APIs` `Webhooks` `n8n` `Zapier` `Make`
 
-### AI & LLM
+**Cloud & DevOps**
+`Docker` `Git` `GitHub Actions` `Vercel` `Railway` `Google Cloud Platform`
 
-`Google Gemini` · `LLM Integration` · `Prompt Engineering`  
-`Generative AI` · `AI Evaluation` · `NLP`  
-`Claude Code` · `Cursor` · `Codex` · `GitHub Copilot`
-
-### Machine Learning & Data
-
-`Scikit-learn` · `XGBoost` · `LightGBM`  
-`Pandas` · `NumPy` · `Data Pipelines` · `Data Plumbing`
-
-### Databases
-
-`PostgreSQL` · `Supabase` · `MySQL` · `SQL Server`  
-`Row-Level Security` · `Authentication`
-
-### APIs & Automation
-
-`REST APIs` · `Webhooks` · `Third-Party API Integration`  
-`n8n` · `Zapier` · `Make` · `Workflow Automation`
-
-### Cloud & DevOps
-
-`Azure` · `Google Cloud Platform` · `Vercel` · `Railway`  
-`Docker` · `Git` · `GitHub Actions` · `CI/CD`
-
-### Engineering & Security
-
-`System Architecture` · `API Design` · `Debugging`  
-`Testing` · `Monitoring` · `Production Deployment`  
-`Secure-by-Design` · `Data Protection` · `Compliance`
+**AI Tools I Use**
+`Google Gemini API` `Claude` `GitHub Copilot` `Cursor`
 
 ---
 
 ## Experience
 
 ### Software Engineer Intern
-
 **ScotiTech Solutions · Glasgow, UK**
+*October 2025 – Present*
 
-**Oct 2025 – Present**
+#### Risklen — Financial Risk Tool for UK Small Businesses
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Supabase` `XGBoost` `LightGBM` `Celery` `Redis` `n8n` `Google Gemini`
 
-#### Risklen — AI Virtual CFO for UK SMEs
+Risklen helps small businesses in the UK check their financial health and risk level using real company data and AI models.
 
-`Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Supabase`  
-`XGBoost` · `LightGBM` · `Celery` · `Redis` · `n8n` · `Google Gemini`
+- Built a full-stack platform with 45 pages and 19 backend API modules.
+- Connected the platform to 6+ outside data sources (Companies House, Alpha Vantage, yfinance) to pull real financial data automatically.
+- Built data pipelines using Celery and Redis so financial data is collected and processed without manual work.
+- Trained and compared 4 machine learning models — XGBoost, LightGBM, Random Forest, and Logistic Regression — to predict bankruptcy risk, using F1 score and ROC-AUC to pick the best-performing one.
+- Used the chosen model to generate a simple 0-100 risk score for each business.
+- Built an AI chatbot using the Google Gemini API that reads a business's financial data and explains it in plain language.
+- Designed a PostgreSQL database with 15 tables, using Row-Level Security so each business can only see its own data.
+- Worked on the platform end to end — planning features, writing backend code, building the pipelines, and deploying to production.
+- Used Claude, Cursor, and GitHub Copilot to help write, debug, and test code faster.
 
-- Built and shipped **production AI-powered software** across full-stack applications, APIs, databases and automated workflows.
-- Integrated **Google Gemini Flash with prompt engineering** to build an LLM-powered financial assistant delivering personalised insights from user data.
-- Built **data pipelines, workflow automation and API integrations** using Celery, Redis, n8n and **6+ third-party financial APIs**.
-- Developed and evaluated **XGBoost, LightGBM, Random Forest and Logistic Regression** models for bankruptcy-risk prediction using F1 and ROC-AUC.
-- Made **pragmatic architectural decisions** across APIs, databases, asynchronous processing and integrations, balancing delivery speed, maintainability and reliability.
-- Worked across **client environments**, supporting feature development, testing, debugging and production delivery.
-- Used **Claude Code, Cursor, Codex and GitHub Copilot** for AI-assisted development, accelerating implementation, debugging, testing and rapid iteration.
+#### Other Work
+`C#` `ASP.NET Core` `SQL Server` `React.js` `TypeScript` `Docker` `GitHub Actions`
+
+- Helped deliver features for enterprise clients across 3 client environments, including documentation and stakeholder communication.
+- Took part in QA and testing cycles, finding bugs before features went live.
+- Got hands-on experience with ASP.NET Core APIs, SQL Server, React.js frontends, and Docker-based CI/CD pipelines.
 
 ---
 
 ## Featured Project
 
 ### LabsProo
+**Multi-Tenant Platform for Diagnostic Labs · 28+ Labs in India**
 
-**Multi-Tenant Diagnostic Laboratory Management Platform**
+`React` `Next.js` `TypeScript` `Supabase (PostgreSQL)` `Row-Level Security` `Tailwind CSS` `Vercel` `Railway` `GitHub Actions`
 
-**37 Paying Laboratories · India**
+LabsProo is a platform I built for diagnostic labs, covering the full process from patient registration to testing, reporting, and invoicing.
 
-`React` · `Next.js` · `TypeScript` · `FastAPI`  
-`PostgreSQL` · `Supabase` · `Row-Level Security`  
-`Vercel` · `Railway` · `GitHub Actions`
-
-LabsProo is a production SaaS platform built for diagnostic laboratories, covering the workflow from patient registration through testing, reporting and invoicing.
-
-### Product
-
-- Built and deployed the platform **from concept to production**, now serving **37 paying diagnostic laboratories**.
-- Processes **thousands of patient records daily** across client laboratories.
-- Maintains **99.5%+ platform uptime**.
-- Reduced manual paperwork by approximately **80%** across client operations.
-
-### Engineering
-
-- Designed and implemented a **multi-tenant architecture** using PostgreSQL Row-Level Security to enforce strict tenant data isolation.
-- Built production workflows covering patient registration, test processing, reporting, invoicing and laboratory operations.
-- Implemented automated calculations including **LDL and eGFR**, critical-value alerts and automated report generation.
-- Built **QR-verifiable reports** and letterhead-aware PDF generation for laboratory reporting.
-- Developed platform administration functionality for managing laboratories, users, catalogue data and system configuration.
-- Integrated APIs and automated workflows to reduce repetitive manual operations.
-
-### Production & Security
-
-- Worked directly with **real client requirements and feedback** to continuously improve the platform.
-- Debugged production issues and delivered iterative improvements based on operational needs.
-- Managed deployment, monitoring and **post-launch maintenance** across the application.
-- Applied **secure-by-design and compliance-aware practices** when handling sensitive laboratory and patient data.
-- Used **Claude Code and AI-assisted development workflows** throughout architecture, implementation, debugging, testing and feature iteration.
+- Built the platform so many labs can use it at the same time, while keeping each lab's data completely separate and secure using Row-Level Security.
+- Now used by 28+ paying labs in India, handling thousands of patient records daily, with 99.5%+ uptime.
+- Built automatic medical calculations, like LDL and eGFR, so lab staff don't have to calculate them by hand.
+- Added critical-value alerts that flag dangerous test results automatically.
+- Built QR-verified PDF reports that show each lab's own letterhead.
+- Built an admin console to add new labs using invite codes, keeping control over who joins the platform.
+- Worked directly with real client feedback to keep improving the platform after launch.
+- This work helped reduce manual paperwork by around 80% for lab staff.
+- Used Claude Code throughout the build — for architecture decisions, writing code, debugging, and testing.
 
 ---
 
 ## Other Project
 
 ### EMG-Controlled Robotic Hand
-
-`Python` · `Raspberry Pi 5` · `MCP3008 ADC` · `PCA9685` · `SPI/I2C`
+`Python` `Raspberry Pi 5` `MCP3008 ADC` `PCA9685` `SPI/I2C`
 
 - Built Python-based EMG signal processing with calibration and hysteresis to control a five-finger robotic hand.
 - Implemented gesture recognition logic mapping EMG signals to individual finger movements.
 - Designed non-blocking servo control using I2C/SPI communication.
-- Produced an academic poster documenting the design, implementation and results.
+- Produced an academic poster documenting the design, implementation, and results.
 
 ---
 
 ## Education
 
-### MSc Advanced Computer Science — Merit
+**MSc Advanced Computer Science — Merit**
+University of Liverpool · Liverpool, UK · 2024–2025
 
-**University of Liverpool**
-
-Liverpool, UK · 2024–2025
-
-### BCA — Bachelor of Computer Applications — Distinction
-
-**Baba Mastnath University**
-
-Haryana, India · 2021–2024
+**BCA — Bachelor of Computer Applications — Distinction**
+Baba Mastnath University · Haryana, India · 2021–2024
 
 ---
 
 ## Certifications
 
-**IBM Data Science and Tools**
-
-Data science fundamentals, Jupyter, GitHub and RStudio.
-
-**Google Analytics**
-
-Website performance tracking and user behaviour analysis.
-
-**Microsoft Data Fortify**
-
-Data protection, compliance and governance.
+- **IBM Data Science and Tools** — Data science fundamentals, Jupyter, GitHub and RStudio
+- **Google Analytics** — Website performance tracking and user behaviour analysis
+- **Microsoft Data Fortify** — Data protection, compliance and governance
 
 ---
 
 ## Currently Interested In
 
-`Software Engineering` · `AI Engineering` · `LLM Applications`
+`Software Engineering` `Full-Stack Development` `Backend Engineering` `Python` `Data Engineering`
 
-`Python` · `Full-Stack Development` · `Backend Engineering`
-
-`Data Engineering` · `Production SaaS` · `Cloud Engineering`
-
-I'm particularly interested in teams where I can take ownership of a problem, understand the real-world requirements, build the solution, ship it to production and continuously improve it based on user feedback.
+I like working on teams where I can take a problem from start to finish — plan it, build it, ship it, and keep improving it based on feedback.
 
 ---
 
@@ -230,7 +157,7 @@ I'm particularly interested in teams where I can take ownership of a problem, un
 
 ### Let's Build Something Useful.
 
-**Software Engineer · AI/LLM · Python · Full-Stack**
+**Software Engineer · Python · Full-Stack**
 
 <br/>
 
