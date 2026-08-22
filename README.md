@@ -28,7 +28,7 @@ London, UK · Open to Work
 
 I'm a Software Engineer working on full-stack applications, backend systems, and data pipelines. Currently at **ScotiTech Solutions**, working on backend APIs, databases, frontend features, testing, and production delivery.
 
-I built **Risklen**, a financial risk checker for UK small businesses, and **LabsPro**, a data system for pathology labs in India, now used by 35+ labs. I like taking a problem, understanding what's actually needed, building it, and improving it based on real feedback.
+I built **Risklen**, a financial risk checker for UK small businesses, and **LabsProo**, a data system for pathology labs in India, now used by 35+ labs. I like taking a problem, understanding what's actually needed, building it, and improving it based on real feedback.
 
 ---
 
