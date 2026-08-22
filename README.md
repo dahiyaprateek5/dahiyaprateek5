@@ -2,7 +2,7 @@
 
 # Prateek Dahiya
 
-### Software Engineer · Full-Stack · Python
+### Software Engineer · Scotitech Solutions
 
 **MSc Advanced Computer Science (Merit) — University of Liverpool**
 
@@ -26,130 +26,96 @@ London, UK · Open to Work
 
 ## About
 
-I'm a Software Engineer working on full-stack applications, backend systems, and data pipelines.
+I'm a Software Engineer working on full-stack applications, backend systems, and data pipelines. Currently at **ScotiTech Solutions**, working on backend APIs, databases, frontend features, testing, and production delivery.
 
-Currently at **ScotiTech Solutions**, working on backend APIs, databases, frontend features, testing, and production delivery.
-
-I built **Risklen**, a financial risk analysis tool for UK small businesses, and **LabsProo**, a multi-tenant platform for diagnostic labs in India, now used by 28+ paying labs.
-
-I like taking a problem, understanding what's actually needed, building it, and improving it based on real feedback.
+I built **Risklen**, a financial risk checker for UK small businesses, and **LabsPro**, a data system for pathology labs in India, now used by 35+ labs. I like taking a problem, understanding what's actually needed, building it, and improving it based on real feedback.
 
 ---
 
 ## Technology
 
 **Languages**
-`Python` `SQL` `JavaScript` `Java (basic)`
+`Python (main)` `SQL` `JavaScript` `Java (basic)`
 
-**Backend**
-`FastAPI` `Flask` `Celery`
-
-**Frontend**
-`React` `Next.js` `Tailwind CSS`
+**Tools I Build With**
+`FastAPI` `Flask` `React` `Next.js` `Pandas` `NumPy`
 
 **Machine Learning**
-`Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy`
+`Scikit-learn` `XGBoost` `LightGBM` `Random Forest` `Logistic Regression` `NLP`
 
 **Databases**
-`PostgreSQL` `MySQL` `Supabase` `Row-Level Security`
+`PostgreSQL` `MySQL` `Azure`
 
-**Automation & APIs**
-`REST APIs` `Webhooks` `n8n` `Zapier` `Make`
+**Data Work**
+`Data Pipelines (Celery, Redis)` `Automated Processing` `Database Design` `Row-Level Security` `API Integration`
 
-**Cloud & DevOps**
-`Docker` `Git` `GitHub Actions` `Vercel` `Railway` `Google Cloud Platform`
+**Automation Apps**
+`n8n` `Zapier` `Make`
 
-**AI Tools I Use**
-`Google Gemini API` `Claude` `GitHub Copilot` `Cursor`
+**Cloud & Deployment**
+`Docker` `GitHub Actions` `Git` `Vercel` `Railway` `Google Cloud`
+
+**AI Coding Helpers**
+`GitHub Copilot` `Cursor` `Claude`
 
 ---
 
 ## Experience
 
+### Software Engineer
+**ScotiTech Solutions · Glasgow, UK**
+*March 2026 - Present*
+
+Tech Stack: `Next.js 14` `FastAPI` `PostgreSQL (Azure)` `scikit-learn` `XGBoost` `LightGBM` `Celery` `n8n` `Google Gemini`
+
+- Built a full product with 45 pages and 19 backend parts, so small business owners can check their financial health easily.
+- Connected the product to 6+ outside data sources, like Companies House, Alpha Vantage, and yfinance, to pull real company information.
+- Built systems (using Celery and Redis) that collect and process financial data on their own, without needing anyone to do it by hand.
+- Trained 4 different AI models to guess if a business might go bankrupt, checked all of them, and picked the best one to give each business a simple score from 0 to 100.
+- Built a chatbot (using Google Gemini) that explains a business's money situation in easy words.
+- Built a database with 15 tables, with strong security so each business can only see its own data.
+- Worked on the whole product, from planning to building to putting it online.
+
 ### Software Engineer Intern
 **ScotiTech Solutions · Glasgow, UK**
-*October 2025 – Present*
+*October 2025 – March 2026*
 
-#### Risklen — Financial Risk Tool for UK Small Businesses
-`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Supabase` `XGBoost` `LightGBM` `Celery` `Redis` `n8n` `Google Gemini`
+Tech Stack: `C#` `ASP.NET Core` `SQL Server` `React.js` `TypeScript` `Docker` `GitHub Actions`
 
-Risklen helps small businesses in the UK check their financial health and risk level using real company data and AI models.
-
-- Built a full-stack platform with 45 pages and 19 backend API modules.
-- Connected the platform to 6+ outside data sources (Companies House, Alpha Vantage, yfinance) to pull real financial data automatically.
-- Built data pipelines using Celery and Redis so financial data is collected and processed without manual work.
-- Trained and compared 4 machine learning models — XGBoost, LightGBM, Random Forest, and Logistic Regression — to predict bankruptcy risk, using F1 score and ROC-AUC to pick the best-performing one.
-- Used the chosen model to generate a simple 0-100 risk score for each business.
-- Built an AI chatbot using the Google Gemini API that reads a business's financial data and explains it in plain language.
-- Designed a PostgreSQL database with 15 tables, using Row-Level Security so each business can only see its own data.
-- Worked on the platform end to end — planning features, writing backend code, building the pipelines, and deploying to production.
-- Used Claude, Cursor, and GitHub Copilot to help write, debug, and test code faster.
-
-#### Other Work
-`C#` `ASP.NET Core` `SQL Server` `React.js` `TypeScript` `Docker` `GitHub Actions`
-
-- Helped deliver features for enterprise clients across 3 client environments, including documentation and stakeholder communication.
-- Took part in QA and testing cycles, finding bugs before features went live.
-- Got hands-on experience with ASP.NET Core APIs, SQL Server, React.js frontends, and Docker-based CI/CD pipelines.
+- Helped build new features for company clients by writing guides, making presentations, and talking with the people in charge.
+- Tested new features and found problems before they went live.
+- Learned how big company systems work, like ASP.NET Core, SQL Server, React.js, and Docker.
 
 ---
 
 ## Featured Project
 
-### LabsProo
-**Multi-Tenant Platform for Diagnostic Labs · 28+ Labs in India**
+### LabsPro — A Data System for Pathology Labs
+**35+ Labs · India**
 
-`React` `Next.js` `TypeScript` `Supabase (PostgreSQL)` `Row-Level Security` `Tailwind CSS` `Vercel` `Railway` `GitHub Actions`
+Tech Stack: `React 18` `Azure (PostgreSQL)` `Tailwind CSS` `Vercel` `Railway` `GitHub Actions`
 
-LabsProo is a platform I built for diagnostic labs, covering the full process from patient registration to testing, reporting, and invoicing.
-
-- Built the platform so many labs can use it at the same time, while keeping each lab's data completely separate and secure using Row-Level Security.
-- Now used by 28+ paying labs in India, handling thousands of patient records daily, with 99.5%+ uptime.
-- Built automatic medical calculations, like LDL and eGFR, so lab staff don't have to calculate them by hand.
-- Added critical-value alerts that flag dangerous test results automatically.
-- Built QR-verified PDF reports that show each lab's own letterhead.
-- Built an admin console to add new labs using invite codes, keeping control over who joins the platform.
-- Worked directly with real client feedback to keep improving the platform after launch.
-- This work helped reduce manual paperwork by around 80% for lab staff.
-- Used Claude Code throughout the build — for architecture decisions, writing code, debugging, and testing.
-
----
-
-## Other Project
-
-### EMG-Controlled Robotic Hand
-`Python` `Raspberry Pi 5` `MCP3008 ADC` `PCA9685` `SPI/I2C`
-
-- Built Python-based EMG signal processing with calibration and hysteresis to control a five-finger robotic hand.
-- Implemented gesture recognition logic mapping EMG signals to individual finger movements.
-- Designed non-blocking servo control using I2C/SPI communication.
-- Produced an academic poster documenting the design, implementation, and results.
+- Built a system that many labs can use at the same time, now used by 35+ labs in India, while keeping each lab's data private and separate from others.
+- The system handles thousands of patient records every day, works well 99.5% of the time, and automatically calculates medical values (like LDL and eGFR) so lab workers don't have to do it by hand.
+- Added alerts that warn staff automatically when a test result is dangerous, and built reports with QR codes so they can be checked as real, showing each lab's own name and logo.
+- Built a special page for the main admin to add new labs using invite codes — this overall helped cut manual paperwork by 80% for lab workers.
 
 ---
 
 ## Education
 
-**MSc Advanced Computer Science — Merit**
-University of Liverpool · Liverpool, UK · 2024–2025
+**MSc Advanced Computer Science - Merit**
+University of Liverpool · 2024–2025
 
-**BCA — Bachelor of Computer Applications — Distinction**
-Baba Mastnath University · Haryana, India · 2021–2024
+**Bachelor's in Computer Applications**
+Baba Masthnath University · 2021–2024
 
 ---
 
 ## Certifications
 
-- **IBM Data Science and Tools** — Data science fundamentals, Jupyter, GitHub and RStudio
-- **Google Analytics** — Website performance tracking and user behaviour analysis
-- **Microsoft Data Fortify** — Data protection, compliance and governance
-
----
-
-## Currently Interested In
-
-`Software Engineering` `Full-Stack Development` `Backend Engineering` `Python` `Data Engineering`
-
-I like working on teams where I can take a problem from start to finish — plan it, build it, ship it, and keep improving it based on feedback.
+- **Google Analytics** - How to check website use and visitor behaviour
+- **Microsoft Data Fortify** - How to keep data safe and follow rules
 
 ---
 
