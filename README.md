@@ -4,7 +4,7 @@
 
 ### Software Engineer · Scotitech Solutions
 
-**MSc Advanced Computer Science (Merit) — University of Liverpool**
+**MSc Advanced Computer Science — University of Liverpool**
 
 London, UK · Open to Work
 
@@ -68,13 +68,14 @@ I built **Risklen**, a financial risk checker for UK small businesses, and **Lab
 
 Tech Stack: `Next.js 14` `FastAPI` `PostgreSQL (Azure)` `scikit-learn` `XGBoost` `LightGBM` `Celery` `n8n` `Google Gemini`
 
-- Built a full product with 45 pages and 19 backend parts, so small business owners can check their financial health easily.
-- Connected the product to 6+ outside data sources, like Companies House, Alpha Vantage, and yfinance, to pull real company information.
-- Built systems (using Celery and Redis) that collect and process financial data on their own, without needing anyone to do it by hand.
-- Trained 4 different AI models to guess if a business might go bankrupt, checked all of them, and picked the best one to give each business a simple score from 0 to 100.
-- Built a chatbot (using Google Gemini) that explains a business's money situation in easy words.
-- Built a database with 15 tables, with strong security so each business can only see its own data.
-- Worked on the whole product, from planning to building to putting it online.
+- Architected and built a full-stack platform (45 pages, 19 backend API modules) enabling small business owners to assess their financial health in real time.
+- Integrated 6+ external data sources, including Companies House, Alpha Vantage, and yfinance, to ingest real-time company and market data.
+- Developed asynchronous data pipelines using Celery and Redis to automate collection, processing, and report generation without manual intervention.
+- Trained 4 machine learning models (XGBoost, LightGBM, Random Forest, Logistic Regression) to predict bankruptcy risk.
+- Evaluated model performance using F1 score and ROC-AUC, selecting the best-performing model to generate a composite 0–100 risk score per business.
+- Designed an LLM-powered chatbot (Google Gemini) to translate raw financial data into plain-language insights for end users.
+- Architected a PostgreSQL database (15 tables) with Row-Level Security to enforce strict multi-tenant data isolation.
+- Delivered the product end-to-end — from architecture and planning through deployment and production release.
 
 ### Software Engineer Intern
 **ScotiTech Solutions · Glasgow, UK**
@@ -84,21 +85,21 @@ Tech Stack: `C#` `ASP.NET Core` `SQL Server` `React.js` `TypeScript` `Docker` `G
 
 - Helped build new features for company clients by writing guides, making presentations, and talking with the people in charge.
 - Tested new features and found problems before they went live.
-- Learned how big company systems work, like ASP.NET Core, SQL Server, React.js, and Docker.
+- Gained hands-on exposure to how large enterprise systems are structured, built, and deployed in a real client environment.
 
 ---
 
 ## Featured Project
 
-### LabsPro — A Data System for Pathology Labs
-**35+ Labs · India**
+### LabsPro - A Data System for Pathology Labs
+35+ Labs
 
 Tech Stack: `React 18` `Azure (PostgreSQL)` `Tailwind CSS` `Vercel` `Railway` `GitHub Actions`
 
-- Built a system that many labs can use at the same time, now used by 35+ labs in India, while keeping each lab's data private and separate from others.
-- The system handles thousands of patient records every day, works well 99.5% of the time, and automatically calculates medical values (like LDL and eGFR) so lab workers don't have to do it by hand.
-- Added alerts that warn staff automatically when a test result is dangerous, and built reports with QR codes so they can be checked as real, showing each lab's own name and logo.
-- Built a special page for the main admin to add new labs using invite codes — this overall helped cut manual paperwork by 80% for lab workers.
+- Architected a multi-tenant platform using PostgreSQL Row-Level Security, enabling 35+ labs in India to operate on shared infrastructure while keeping each lab's data fully isolated.
+- Processed thousands of patient records daily with 99.5% uptime, and automated clinical calculations (like LDL and eGFR) directly at the data layer, removing manual computation for lab staff.
+- Implemented automated critical-value alerting and QR-verifiable, letterhead-aware report generation to ensure data integrity and traceability across client labs.
+- Built a SuperAdmin console with invite-code-based tenant onboarding, streamlining lab activation and reducing manual paperwork by 80%.
 
 ---
 
