@@ -28,7 +28,7 @@ London, UK · Open to Work
 
 I'm a Software Engineer at **ScotiTech Solutions**, working mainly with Python, FastAPI, databases, APIs, AI/ML, and production systems.
 
-I also built **LabsProo**, a pathology lab management platform used by 35+ Diagnostic labs. I enjoy turning real-world problems into reliable software and improving systems based on real user feedback.
+I also built **LabsProo**, a pathology lab management platform used by 50+ Diagnostic labs. I enjoy turning real-world problems into reliable software and improving systems based on real user feedback.
 
 ---
 
