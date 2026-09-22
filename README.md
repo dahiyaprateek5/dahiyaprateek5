@@ -86,7 +86,7 @@ I also built **LabsProo**, a pathology lab management platform used by 50+ Diagn
 
 ### LabsProo - Pathology Lab Management Platform
 
-**35+ Diagnostic Labs**
+**70+ Diagnostic Labs**
 
 **Technologies:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Celery` `Docker` `Vercel` `Cloud Storage`
 
