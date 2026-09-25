@@ -26,29 +26,24 @@ London, UK · Open to Work
 
 ## About
 
-I'm a Software Engineer at **ScotiTech Solutions**, working mainly with Python, FastAPI, databases, APIs, AI/ML, and production systems.
-
-I also built **LabsProo**, a pathology lab management platform used by 50+ Diagnostic labs. I enjoy turning real-world problems into reliable software and improving systems based on real user feedback.
+Software engineer with expertise in enterprise application development using Python, C# and .NET specializing in backend systems, database architecture, AI integration and an emerging focus on data engineering. Experienced in designing and delivering scalable, production - ready solutions for the financial services.
 
 ---
 
 ## Technology
 
-**Languages:** `Python` `SQL` `JavaScript` `Java`
+**Programming Languages:**	`Python` `SQL` `C#` `ASP.NET` `JavaScript` `Java (Working Knowledge)`
 
-**Backend:** `FastAPI` `Flask` `REST APIs`
+**Frameworks & Databases:**	`Entity Framework Core` `Celery` `OOP` `Data Structures & Algorithms` `Postgres SQL` `MySQL` `Microsoft Azure`
 
-**Frontend:** `React` `Next.js` `TypeScript`
+**Web & App Development:**	`ASP.NET Core` `RESTFUL APIs` `FastAPI` `React` `Next.js` `Pandas` `NumPy`
 
-**AI / Machine Learning:** `Scikit-learn` `XGBoost` `LightGBM` `Random Forest` `Logistic Regression` `NLP`
+**AI & Machine Learning:**	`Prompt Engineering` `Agentic AI` `LLM Integration` `XGBoost` `LightGBM` `AI/ML Model Integration & Deployment`
 
-**Databases:** `PostgreSQL` `MySQL` `Row-Level Security`
+**DevOps & Project Delivery:**	`Azure DevOps` `Docker` `CI/CD Pipelines` `GitHub` `Version Control`
 
-**Data & Processing:** `Pandas` `NumPy` `Celery` `Redis` `Data Pipelines`
+**Data Engineering:** `SQL` `Apache Airflow` `PySpark` `Apache Kafka` `DBT (Data Build Tool)`
 
-**Cloud & Deployment:** `Docker` `GitHub Actions` `Vercel` `Railway` `Google Cloud` `Azure`
-
-**Automation & AI Tools:** `n8n` `Zapier` `Make` `GitHub Copilot` `Cursor` `Claude`
 
 ---
 
@@ -58,16 +53,14 @@ I also built **LabsProo**, a pathology lab management platform used by 50+ Diagn
 **ScotiTech Solutions · Glasgow, UK**  
 *March 2026 – Present*
 
-**Technologies:** `Next.js 14` `FastAPI` `PostgreSQL` `Scikit-learn` `XGBoost` `LightGBM` `Celery` `Redis` `Google Gemini`
+**Technologies:** `C#` `ASP.NET Core` `Next.js 14` `PostgreSQL (Azure)` `Python (ML Microservice)` `Celery`
 
-- Built a financial risk assessment platform helping small businesses understand their financial health.
-- Integrated 6+ external data sources including Companies House, Alpha Vantage, and yfinance.
-- Developed asynchronous data pipelines using Celery and Redis for automated data collection and processing.
-- Trained and evaluated XGBoost, LightGBM, Random Forest, and Logistic Regression models for bankruptcy-risk prediction.
-- Evaluated models using F1 score and ROC-AUC and used the best-performing model to generate a 0–100 risk score.
-- Built an AI chatbot using Google Gemini to explain financial information in simple language.
-- Designed a PostgreSQL database with Row-Level Security for multi-tenant data isolation.
-- Worked across architecture, backend development, database design, testing, and production deployment.
+- Architected and delivered a full–stack financial risk platform comprising 45 user-facing pages and 19 backend API modules using ASP.NET Core and Entity Framework Core, integrating data from 6+ external sources, including Company House, Alpha Vantage and Yahoo Finance to enable real time financial analysis.
+- Designed and implemented scalable RESTful APIs leveraging dependency injection, asynchronous programming (async/await), and clean architecture principles to efficiently process high volumes of concurrent requests.
+-	Developed a hybrid application architecture that seamlessly integrated the .NET backend with a Python-Based machine learning microservice, enabling model-driven risk assessment and predictive analytics using XGBoost and LightGBM while maintaining complete separation of ML dependencies from the core platform.
+-	 Automated data collection and report generation using celery and Redis and implemented a Google Gemini powered chatbot for financial insights.
+-	Designed a secure PostgreSQL database with 15+ tables and Row-Level Security (RLS).
+
 
 ### Software Engineer Intern
 **ScotiTech Solutions · Glasgow, UK**  
@@ -75,10 +68,9 @@ I also built **LabsProo**, a pathology lab management platform used by 50+ Diagn
 
 **Technologies:** `C#` `ASP.NET Core` `SQL Server` `React.js` `TypeScript` `Docker` `GitHub Actions`
 
-- Supported development of features for company clients across internal and client-facing systems.
-- Created technical documentation and presentations and communicated with stakeholders to understand requirements.
-- Tested new features and identified issues before production release.
-- Gained hands-on experience with enterprise application development, testing, deployment, and development workflows.
+- Collaborated with cross-functional teams to deliver new features and produced technical design documents.
+-	Created and tested new features in sandbox environment to identify and resolve errors before production deployment.
+-	Supported engineering team in creating framework and data structures.
 
 ---
 
@@ -90,13 +82,11 @@ I also built **LabsProo**, a pathology lab management platform used by 50+ Diagn
 
 **Technologies:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Celery` `Docker` `Vercel` `Cloud Storage`
 
-- Built and maintain a multi-tenant pathology lab management platform used by 35+ Diagnostic labs.
-- Designed PostgreSQL Row-Level Security to keep each laboratory's patient and operational data isolated.
-- Automated patient workflows, test processing, report generation, medical calculations, invoicing, and report delivery.
-- Implemented automated critical-value alerts and QR-verifiable reports for improved report validation and traceability.
-- Built platform-admin workflows for onboarding and managing laboratory tenants.
-- Designed automated backup and data-recovery workflows for production data.
-- The platform generates revenue through active laboratory subscriptions.
+- Architected a multi-tenant SaaS platform using Row-Level Security, enabling 100+ labs to operate on shared infrastructure while keeping data isolation per client.
+-	Scaled the system to process 1000+ records daily with 99.5% uptime and automated calculations (LDL, eGFR) directly at the data layer to eliminate manual computation.
+-	Configured automated critical-value alerting, QR-verifiable and letterhead aware reports generation to ensure data integrity and traceability.
+-	Integrated a Super-Admin console with invite-code-based tenant onboarding, streamlining lab activation and reducing manual paperwork by 80%.
+
 
 ---
 
