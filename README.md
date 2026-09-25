@@ -102,8 +102,9 @@ Baba Mastnath University · 2021–2024
 
 ## Certifications
 
-- **Microsoft DataFortify** - Microsoft · 2024
 - **Google Analytics** - Google
+- **Microsoft DataFortify** - Microsoft 
+- **Data Science & Tools** - IBM
 
 ---
 
