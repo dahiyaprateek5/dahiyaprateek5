@@ -78,7 +78,7 @@ Software engineer with expertise in enterprise application development using Pyt
 
 ### LabsProo - Pathology Lab Management Platform
 
-**70+ Diagnostic Labs**
+**100+ Diagnostic Labs**
 
 **Technologies:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Celery` `Docker` `Vercel` `Cloud Storage`
 
